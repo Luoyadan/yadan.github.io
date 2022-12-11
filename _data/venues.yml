@@ -4,3 +4,17 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"ICML":
+  url: https://icml.cc/
+
+"WACV":
+  url: https://wacv2023.thecvf.com/home
+
+"MM":
+  url: https://2022.acmmm.org/
+
+"WWW":
+  url: https://www.springer.com/journal/11280
+  color: "#00369f"
+
