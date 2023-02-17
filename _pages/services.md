@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 #### Internal Service
-- Academic Advisor for Pathway Program, the University of Queensland, 2023.
+- Academic Advisor for Pathway Program (Computer Science), the University of Queensland, 2023.
 - Orgnizer of [DS Seminar Series](https://uq-ds-seminar.github.io/), 2023.
 
 #### External Service

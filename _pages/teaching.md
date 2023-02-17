@@ -6,6 +6,7 @@ description:
 nav: true
 nav_order: 5
 ---
+**2023** - Lecturer: [INFS 3200: Advanced Database Systems](https://my.uq.edu.au/programs-courses/course.html?course_code=infs3200)
 
 **2023** - Course Coordinator: [INFS4205/INFS7205: Advanced Techniques for High Dimensional Data](https://my.uq.edu.au/programs-courses/course.html?course_code=INFS7205)
 
