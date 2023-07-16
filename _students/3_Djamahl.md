@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Djamahl Etchegaray
-description: Research Assistant, 2023.01-
+description: RA, 2023.01-Present
 img: assets/img/student_preview/djamahl.png
 importance: 3
 category: current
