@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jia Syuen Lim
+title: Jia Syuen<br /> Lim
 description: PhD Student, 2023.07-Present
 img: assets/img/student_preview/jason-headshot.jpg
 importance: 4

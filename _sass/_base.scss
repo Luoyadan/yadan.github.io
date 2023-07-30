@@ -16,6 +16,9 @@ table {
   td, th {
     color: var(--global-text-color);
   }
+  th {
+    width: 10%;
+  }
   td {
     font-size: 1rem;
   }
@@ -496,8 +499,11 @@ footer.sticky-bottom {
       margin-bottom: 1rem;
       .preview {
         width: 100%;
-        min-width: 80px;
+        min-width: 110px;
         max-width: 200px;
+        &:hover {
+          transform: scale(1.07);
+      }
       }
       .abbr {
         height: 2rem;
