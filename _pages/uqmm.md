@@ -54,6 +54,11 @@ blockquote {
          <div class ="textbox" style="margin-top:10px;"> <b> Jia Syuen Lim </b> </div>
          <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2023.07-Present </div></a>
   </div>
+  <div class="box"><a href="" title="Yuxia Fu">
+         <img src="/assets/img/student_preview/yuxia.jpg" alt="Yuxia"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Yuxia Fu </b> </div>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.01-Present </div></a>
+  </div>
     <br>
  </div>
 
@@ -68,8 +73,8 @@ blockquote {
     
 ### Lab News
 
-| **[Best Student Paper Award](https://www.acmmm2023.org/)**, **Zixin Wang**, **Yadan Luo**, Zhi Chen, Sen Wang, Zi Huang, *Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error*, Nov '23 🥇|
-| **[Best Demo Award](https://www.acmmm2023.org/)**, **Djamahl Etchegaray**, **Yadan Luo**, Zachary FitzChance, Anthony Southon, Jinjiang Zhong, *Open-RoadAtlas: Leveraging VLMs for Road Condition Survey with Real-Time Mobile Auditing*, Nov '23 🏆|
+- **[Best Student Paper Award](https://www.acmmm2023.org/)**, **Zixin Wang**, **Yadan Luo**, Zhi Chen, Sen Wang, Zi Huang, *Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error*, Nov '23 🥇
+- **[Best Demo Award](https://www.acmmm2023.org/)**, **Djamahl Etchegaray**, **Yadan Luo**, Zachary FitzChance, Anthony Southon, Jinjiang Zhong, *Open-RoadAtlas: Leveraging VLMs for Road Condition Survey with Real-Time Mobile Auditing*, Nov '23 🏆
 
 
 <!-- ### Research Projects
