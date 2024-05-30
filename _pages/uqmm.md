@@ -59,14 +59,26 @@ blockquote {
          <div class ="textbox" style="margin-top:10px;"> <b> Yuxia Fu </b> </div>
          <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.01-Present </div></a>
   </div>
+  <div class="box"><a href="" title="Fengyi Zhang">
+         <img src="/assets/img/student_preview/fengyi.jpg" alt="Fengyi"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Fengyi Zhang </b> </div>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07 </div></a>
+  </div>
+  <div class="box"><a href="" title="Huitong Yang">
+         <img src="/assets/img/student_preview/huitong.jpg" alt="Huitong"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Huitong Yang </b> </div>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07 </div></a>
+  </div>
     <br>
  </div>
 
-#### Visiting Students / Data Science Capstone Supervision
+#### Visiting Students / Data Science Capstone / Placement Supervision
 
-| **Junjie Meng, Ziniu Zhang**, *Test-time Domain Adaptation for 3D Object Detection* , Aug '23 -- Nov '23|
+| **Jacques Serfontein**, *Optimising Lithium Refinery Filtration with Machine Learning*, Feb '24 -- July '24|
 
-| **Yuxia Fu, Zhuo Cao**, *Dataset Distillation for Object Detection* , Feb '23 -- Nov '23|
+| **Junjie Meng, Ziniu Zhang**, *Test-time Domain Adaptation for 3D Object Detection*, Aug '23 -- Nov '23|
+
+| **Yuxia Fu, Zhuo Cao**, *Dataset Distillation for Object Detection*, Feb '23 -- Nov '23|
 
 <br>
 
