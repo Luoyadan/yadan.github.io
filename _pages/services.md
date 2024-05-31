@@ -10,9 +10,11 @@ nav_order: 6
 - [IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) (2024 - )
 
 ### Conference Chair
-- **Area Chair**, ACM Multimedia 2023, AJCAI 2023
-- **Publication Chairs**, [ACM Multimedia 2024](https://2024.acmmm.org/organisation-committee)
-- **Doctoral Symposium Chair**, ACM Multimedia Asia, 2025
+- **Area Chair**, [MM 2024](https://2024.acmmm.org/organisation-committee), MM 2023, AJCAI 2023
+- **Publication Chairs**, [MM 2024](https://2024.acmmm.org/organisation-committee)
+- **Short Paper and Demo Chair**, ACM Multimedia Asia 2024
+- **Short Paper Chair**, WWW 2025
+- **Doctoral Symposium Chair**, ACM Multimedia Asia 2025
 - **Volunteer Coordination Chair**, ACM Multimedia Asia, 2021
 - **Program Commitee Members**, NeurIPS 2023, ICCV 2023, CVPR 2023, ECCV 2022, ACM Multimedia 2021, CIKM 2021, SIGIR, ICDE.
 - **Journal Reviewer**, IEEE TPAMI, IEEE TNNLS, IEEE TKDE, PR, TMM, TIP, CYB, VLDB.
