@@ -1,7 +1,7 @@
 ---
 layout: lab
-title:   UQMM Lab
-permalink: /uqmm/
+title:   UQMM Lab 
+permalink: /uqmm/ 
 description: 
 nav: true
 order: 1
