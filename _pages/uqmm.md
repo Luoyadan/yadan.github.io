@@ -1,17 +1,19 @@
 ---
 layout: lab
-title:   UQMM Lab 
+title: 
 permalink: /uqmm/ 
 description: 
 nav: true
 order: 1
-
+profile:
+  align: left
+  image: uqmm-color.png
 ---
 
 
 
 
-### Team Members
+### Lab Members
 
 <style>
 table {
