@@ -1,6 +1,6 @@
 ---
 layout: lab
-title: 
+title: UQMM Lab
 permalink: /uqmm/ 
 description: 
 nav: true
