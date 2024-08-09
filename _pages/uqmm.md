@@ -13,7 +13,7 @@ profile:
 
 
 
-### Lab Members
+# Lab Members
 
 <style>
 table {
@@ -84,11 +84,38 @@ blockquote {
 
 <br>
 
-    
-### Lab News
+# Lab Notes
 
-- **[Best Student Paper Award](https://www.acmmm2023.org/)**, **Zixin Wang**, **Yadan Luo**, Zhi Chen, Sen Wang, Zi Huang, *Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error*, Nov '23 🥇
-- **[Best Demo Award](https://www.acmmm2023.org/)**, **Djamahl Etchegaray**, **Yadan Luo**, Zachary FitzChance, Anthony Southon, Jinjiang Zhong, *Open-RoadAtlas: Leveraging VLMs for Road Condition Survey with Real-Time Mobile Auditing*, Nov '23 🏆
+#### Conference Memo
+
+| 🥐 **[ICCV 2023](https://uqmm.gitbook.io/iccv23-notes/)** (Yadan) - covering tutorials, posters on generalization & 3D vision
+
+| 🏰 **ICLR 2024** (coming soon)
+
+
+<br>
+
+
+# Lab News
+
+#### 2024
+
+[Jul '24] 1 paper accepted by IJCV 2024
+
+[Jul '24] 1 paper accepted by MM 2024
+
+[Jul '24] 1 paper accepted by ECCV 2024
+
+- **[Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments](https://arxiv.org/abs/2403.13556)**. ***Djamahl Etchegaray**, Zi Huang, Tatsuya Harada, **Yadan Luo**.* 📝[Paper Link](https://arxiv.org/abs/2403.13556), 🛠️[Github](https://github.com/djamahl99/findnpropagate)
+
+
+
+#### 2023
+
+
+[Nov '23] 🥇 **[Best Student Paper Award](https://www.acmmm2023.org/)**, **Zixin Wang**, **Yadan Luo**, Zhi Chen, Sen Wang, Zi Huang, *Cal-SFDA: Source-Free Domain-adaptive Semantic Segmentation with Differentiable Expected Calibration Error*, 📝[Paper Link](https://arxiv.org/pdf/2308.03003), 🛠️[Github](https://github.com/Jo-wang/Cal-SFDA), ACM Multimedia 2023.
+
+[Nov '23] 🏆 **[Best Demo Award](https://www.acmmm2023.org/)**, **Djamahl Etchegaray**, **Yadan Luo**, Zachary FitzChance, Anthony Southon, Jinjiang Zhong, *Open-RoadAtlas: Leveraging VLMs for Road Condition Survey with Real-Time Mobile Auditing*, ACM Multimedia 2023.
 
 
 <!-- ### Research Projects
