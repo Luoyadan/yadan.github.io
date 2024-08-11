@@ -100,15 +100,15 @@ blockquote {
 
 #### 2024
 
-[Jul '24] 1 paper accepted by IJCV 2024
-
 [Jul '24] 1 paper accepted by MM 2024
+- **[DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection](https://arxiv.org/abs/2406.13891)**. ***Zhuoxiao Chen**, **Zixin Wang**, **Yadan Luo**, Sen Wang, Zi Huang* 📝[Paper Link](https://arxiv.org/abs/2406.13891), 🛠️[Github](https://github.com/Jo-wang/DPO)
 
 [Jul '24] 1 paper accepted by ECCV 2024
 
 - **[Find n' Propagate: Open-Vocabulary 3D Object Detection in Urban Environments](https://arxiv.org/abs/2403.13556)**. ***Djamahl Etchegaray**, Zi Huang, Tatsuya Harada, **Yadan Luo**.* 📝[Paper Link](https://arxiv.org/abs/2403.13556), 🛠️[Github](https://github.com/djamahl99/findnpropagate)
 
-
+[Jul '24] 1 paper accepted by IJCV 2024
+- **[In Search of Lost Online Test-time Adaptation: A Survey](https://arxiv.org/abs/2310.20199)**. ***Zixin Wang**, **Yadan Luo**, Liang Zheng, **Zhuoxiao Chen**, Sen Wang, Zi Huang* 📝[Paper Link](https://arxiv.org/abs/2310.20199), 🛠️[Github](https://github.com/Jo-wang/OTTA_ViT_survey)
 
 #### 2023
 
