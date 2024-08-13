@@ -6,7 +6,7 @@ subtitle: <a href='https://itee.uq.edu.au/'>The University of Queensland</a>.
 
 profile:
   align: right
-  image: Prof_pic.jpg
+  image: Yadan_pic.jpg
   image_circular: true # crops the image to make it circular
   address: 
    

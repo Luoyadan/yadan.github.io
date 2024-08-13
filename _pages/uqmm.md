@@ -30,7 +30,7 @@ blockquote {
 
 
 
-#### Graduate Students
+#### PhD Students
 <div class ="image-gallery">
   <div class="box"><a href="https://www.linkedin.com/in/zi-xin-wang-6307811ab/?originalSubdomain=au" title="Zixin Wang">
          <img src="/assets/img/student_preview/zixin.jpg" alt="Zixin"  class="img-gallery" />
