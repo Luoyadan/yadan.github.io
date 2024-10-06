@@ -90,7 +90,8 @@ blockquote {
 
 | 🥐 **[ICCV 2023](https://uqmm.gitbook.io/iccv23-notes/)** (Yadan) - covering tutorials, posters on generalization & 3D vision
 
-| 🏰 **ICLR 2024** (coming soon)
+| 🏰 **[ICLR 2024](https://uqmm.gitbook.io/uqmm-iclr24-notes/)** (Yadan) - covering generalizaton & adaptation
+
 
 
 <br>
@@ -99,6 +100,13 @@ blockquote {
 # Lab News
 
 #### 2024
+[Oct '24] 🥇 The second place in the [Sweet Peppers Multi-Object Tracking Challenge](https://cvppa2024.github.io/challenges/#multi-object-tracking-of-sweet-peppers-challenge00477),  ***Jia Syuen Lim**, **Yadan Luo**, Zhi Chen, Tianqi Wei, Scott Chapman, and Zi Huang*, *Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs*, 📝[Paper Link], 🛠️[Github], 9th Workshop on Computer Vision in Plant Phenotyping and Agriculture (CVPPA), held at [ECCV 2024](https://cvppa2024.github.io/).
+
+[Oct '24] 2 papers accepted by NeurIPS 2024
+- **[DiPEx: Dispersing Prompt Expansion for Class-Agnostic Object Detection](https://arxiv.org/pdf/2406.14924)**. ***Jia Syuen Lim**, **Zhuoxiao Chen**, Mahsa Baktashmotlagh, Zhi Chen, Xin Yu, Zi Huang, **Yadan Luo**.* 📝[Paper Link](https://arxiv.org/pdf/2406.14924), 🛠️[Github]
+
+- **Color-Oriented Redundancy Reduction in Dataset Distillation**. ***Bowen Yuan**, Zijian Wang, Mahsa Baktashmotlagh, **Yadan Luo**, Zi Huang* 📝[Paper Link], 🛠️[Github]
+
 
 [Jul '24] 1 paper accepted by MM 2024
 - **[DPO: Dual-Perturbation Optimization for Test-time Adaptation in 3D Object Detection](https://arxiv.org/abs/2406.13891)**. ***Zhuoxiao Chen**, **Zixin Wang**, **Yadan Luo**, Sen Wang, Zi Huang* 📝[Paper Link](https://arxiv.org/abs/2406.13891), 🛠️[Github](https://github.com/Jo-wang/DPO)

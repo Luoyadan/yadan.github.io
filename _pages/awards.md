@@ -6,8 +6,9 @@ description:
 nav: true
 nav_order: 7
 ---
-- Best Student Paper Award, ACM Multimedia 2023.
-- Best Demo Award, ACM Multimedia 2023.
+- **[UQ Foundation Research Excellence Award](https://research-support.uq.edu.au/uq-research-and-innovation-awards-excellence)**, 2024.
+- **Best Student Paper Award**, ACM Multimedia 2023.
+- **Best Demo Award**, ACM Multimedia 2023.
 - **Early Career Research Award**, EAIT, The University of Queensland, 2023.
 - **Most Effective Teacher**, EAIT, Univeresity of Queensland, S1 2023.
 - Best Paper Award, Australasian database Conference 2020.
