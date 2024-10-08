@@ -4,6 +4,10 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+"ECCV":
+  url: https://eccv.ecva.net/
+"NeurIPS":
+  url: https://neurips.cc/
 
 "ICML":
   url: https://icml.cc/
