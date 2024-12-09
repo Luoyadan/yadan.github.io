@@ -29,16 +29,17 @@ blockquote {
 </style>
 
 
-
-#### PhD Students
+#### Postdoc Reseach Fellow
 <div class ="image-gallery">
   <div class="box"><a href="https://www.linkedin.com/in/zi-xin-wang-6307811ab/?originalSubdomain=au" title="Zixin Wang">
-         <img src="/assets/img/student_preview/zixin.jpg" alt="Zixin"  class="img-gallery" />
-         <div class ="textbox" style="margin-top:10px;"> <b> Zixin Wang </b> </div>
-         <div class ="textbox" style="margin-top:3px;"> Ph.D. <br> 2021.04-Present<br> </div></a>
-  </div>
-
-
+          <img src="/assets/img/student_preview/zixin.jpg" alt="Zixin"  class="img-gallery" />
+          <div class ="textbox" style="margin-top:10px;"> <b> Zixin Wang </b> </div>
+          <div class ="textbox" style="margin-top:3px;"> Ph.D. <br> 2024.07-Present<br> </div></a>
+    </div>
+</div>
+#### PhD Students
+<div class ="image-gallery">
+  
   <div class="box"><a href="https://zhuoxiao-chen.github.io/" title="Zhuoxiao Chen">
          <img src="/assets/img/student_preview/ivan.jpg" alt="Aniket"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Zhuoxiao Chen </b> </div>
@@ -64,13 +65,20 @@ blockquote {
   <div class="box"><a href="" title="Fengyi Zhang">
          <img src="/assets/img/student_preview/fengyi.jpg" alt="Fengyi"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Fengyi Zhang </b> </div>
-         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07 </div></a>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07-Present </div></a>
   </div>
   <div class="box"><a href="" title="Huitong Yang">
          <img src="/assets/img/student_preview/huitong.jpg" alt="Huitong"  class="img-gallery" />
          <div class ="textbox" style="margin-top:10px;"> <b> Huitong Yang </b> </div>
-         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07 </div></a>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2024.07-Present </div></a>
   </div>
+
+  <div class="box"><a href="https://scholar.google.com/citations?user=X1sJkM8AAAAJ&hl=en" title="Zhizhen Zhang">
+         <img src="/assets/img/student_preview/zhizhen.jpg" alt="Zhizhen"  class="img-gallery" />
+         <div class ="textbox" style="margin-top:10px;"> <b> Zhizhen Zhang </b> </div>
+         <div class ="textbox" style="margin-top:3px;">  Ph.D. <br> 2025.01-Present </div></a>
+  </div>
+
     <br>
  </div>
 
