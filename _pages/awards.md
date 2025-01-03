@@ -8,6 +8,7 @@ nav_order: 7
 ---
 
 - **[UQ Foundation Research Excellence Award](https://research-support.uq.edu.au/uq-research-and-innovation-awards-excellence)**, 2024.
+- **Distinguished Committee Member**, ACM Multimedia Asia 2024. 
 - **Outstanding Service Award**, ACM Multimedia 2024.
 - **Outstanding Area Chair Award**, ACM Multimedia 2024.
 - **Best Student Paper Award**, ACM Multimedia 2023.
